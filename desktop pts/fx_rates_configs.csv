@@ -1,0 +1,10 @@
+key,value
+list_1,"MURUSD, EURUSD, GBPUSD"
+list_2,"NZDUSD, AUDUSD, ZARUSD, JPYUSD, CHFUSD, CADUSD, SGDUSD, INRUSD, AEDUSD, HKDUSD, GHSUSD, KESUSD, BWPUSD, TZSUSD, UGXUSD, DKKUSD, THBUSD, EGPUSD, SEKUSD, NOKUSD"
+pdf_file_path,C:\Users\RB-MU_Robot_PTS_01\Desktop\Rates.pdf
+urlOnshore,https://stgmuon.test.teller.corebanking.intra.absa.co.za/roatellerweb/secured/login?MUS
+urlOffshore,https://stgmuof.test.teller.corebanking.intra.absa.co.za/roatellerweb/secured/login?MUO
+mail_to,RBTreasuryOps@absa.africa
+mail_cc,RBTreasuryOps@absa.africa
+pdf_report_generated_fx,C:\Users\RB-MU_Robot_PTS_01\Desktop\PDF Report FX\
+completion_log_fx,C:\Users\RB-MU_Robot_PTS_01\Desktop\completion_log_fx.xlsx

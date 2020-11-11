@@ -1,0 +1,10 @@
+key,value
+file_path, C://Users//Akshay//Desktop//Indicativerates 30 06 2020_unprotected.xls
+list_1,"MURUSD, EURUSD, GBPUSD"
+list_2,"NZDUSD, AUDUSD, ZARUSD, JPYUSD, CHFUSD, CADUSD, SGDUSD, INRUSD, AEDUSD, HKDUSD, GHSUSD, KESUSD, BWPUSD, TZSUSD, UGXUSD, DKKUSD, THBUSD, EGPUSD, SEKUSD, NOKUSD"
+pdf_file_path,C:\\Users\\Akshay\\Desktop\\Rates.pdf
+urlOnshore,https://stgmuon.test.teller.corebanking.intra.absa.co.za/roatellerweb/secured/login?MUS
+urlOffshore,https://stgmuof.test.teller.corebanking.intra.absa.co.za/roatellerweb/secured/login?MUO
+indicative_rates_for_bot,\\MUEBCYP02FVG02\\TreasuryBackOffice$\\Back office\\LEGAL REGULATORY\\INDICATIVE RATES FOR BOT\\
+mail_to,RBTreasuryOps@absa.africa
+mail_cc,RBTreasuryOps@absa.africa
